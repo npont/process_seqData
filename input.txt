@@ -1,0 +1,4 @@
+file_name_1.fastq.gz
+file_name_2.fastq.gz
+file_name_3.fastq.gz
+etc
